@@ -1,0 +1,3 @@
+rootProject.name='LibjpegturboDemo'
+include ':app'
+include ':turbo-jpeg-tool'
